@@ -1,4 +1,4 @@
-![Header](https://github.com/sohechai/sohechai/blob/main/header_readme.png "Header")
+![Header](https://github.com/sohechai/sohechai/blob/main/readme_header.png "Header")
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohechai"/>
