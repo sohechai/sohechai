@@ -3,7 +3,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohechai&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohechai)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
 
