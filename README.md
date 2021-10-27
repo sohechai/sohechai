@@ -7,14 +7,4 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=sohechai&count_private=true&show_icons=true"/>
 </a>
 
-<!-- Actual text -->
-
-If your are from 42 school, you can find my 42 profile on [![42 profile][1.2]][1].
-
-<!-- Icons -->
-
-[1.2]: :computer_mouse:
-
-<!-- Links to your social media accounts -->
-
-[1]: https://profile.intra.42.fr/users/sohechai
+# If you are from 42 school, you can fine my profile here : <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
