@@ -7,4 +7,4 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=sohechai&count_private=true&show_icons=true"/>
 </a>
 
-# If you are from 42 school, you can find my profile here : <img src="https://giphy.com/gifs/9pandas-3niRMHKDq4YDKkDObu" width="30px">
+# If you are from 42 school, you can find my profile here : <img src="https://giphy.com/embed/3niRMHKDq4YDKkDObu" width="30px">
