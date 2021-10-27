@@ -13,7 +13,7 @@ If your are from 42 school, you can find my 42 profile on [![42 profile][1.2]][1
 
 <!-- Icons -->
 
-[1.2]: here
+[1.2]: :computer_mouse:
 
 <!-- Links to your social media accounts -->
 
