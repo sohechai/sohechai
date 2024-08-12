@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Sofia Hechaïchi</h1>
 <h3>A passionate software engineer based in France</h3>
 
-👩🏻‍💻 I’m currently working at CGI **for SNCF**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sofia-hechaichi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofia-hechaichi" height="30" width="40" /></a>
